@@ -1,0 +1,16 @@
+.demo1 {
+  width: 100px;
+  height: 100px;
+  background: red;
+}
+.demo2 {
+  width: 200px;
+  height: 200px;
+  background: orange;
+}
+.bg-p{
+  background:pink;
+}
+.bg-g{
+  background:greenyellow;
+}
